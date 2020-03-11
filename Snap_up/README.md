@@ -11,10 +11,10 @@ QQ群：605346047
 ## 版本日志
 
 ### 2020-03-8 v1.0 初步实现京东跳转
-* https://www.icloud.com/shortcuts/b86d1f5d144140e7902e8765525818cb
+* https://www.icloud.com/shortcuts/42f9666fb39a41179d8bf02a81446aee
 
 ### 2020-03-9 v1.1 初步实现淘宝跳转
-* https://www.icloud.com/shortcuts/09daa3fe92754b87856775557fd02d70
+* https://www.icloud.com/shortcuts/66cd40e5a28642afa4e8f4ded347867d
 
 ### 2020-03-10 v1.2 实现淘宝转口令跳转-个人版
 * 由于个人版配置因每个人不同太麻烦，则不出发行版了，需要的请联系我
