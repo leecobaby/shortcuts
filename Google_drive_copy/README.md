@@ -15,4 +15,4 @@ tg群:建设中...
 ### 2020-03-30 v1.0
 * 实现AutoRclone和Gclone的转存操作
 * 实现版本更新功能
-*https://www.icloud.com/shortcuts/04912156f0644a7aaf65f76fe1cf1b77
+*https://www.icloud.com/shortcuts/51cdfaff6fd44ac295a8a34bd67e3da8
