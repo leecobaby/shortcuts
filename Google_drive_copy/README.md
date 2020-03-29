@@ -8,7 +8,7 @@
 
 QQ群:605346047
 
-参与提交你的作品到Github:「[点击这里](https://github.com/LeecoGit/shortcuts/commit/24ee21d9106299d397fa350f082636ed09053cf8)」
+参与提交你的作品到Github:https://github.com/LeecoGit/shortcuts/commit/24ee21d9106299d397fa350f082636ed09053cf8
 
 ## 版本日志
 
