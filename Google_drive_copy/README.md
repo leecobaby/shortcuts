@@ -15,4 +15,4 @@ QQ群:605346047
 ### 2020-03-30 v1.0
 * 实现AutoRclone和Gclone的转存操作
 * 实现版本更新功能
-*https://www.icloud.com/shortcuts/c573a29b36bd434eb22538533438beab
+*https://www.icloud.com/shortcuts/04912156f0644a7aaf65f76fe1cf1b77
