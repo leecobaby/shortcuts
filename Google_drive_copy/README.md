@@ -22,9 +22,13 @@ https://github.com/LeecoGit/shortcuts/commit/24ee21d9106299d397fa350f082636ed090
 * 实现版本更新功能
 * https://www.icloud.com/shortcuts/51cdfaff6fd44ac295a8a34bd67e3da8
 
-### 2020-04-08 v2.0
+### 2020-04-09 v2.0
 * 修复一些错误
 * 增加更多选项
 * 更改指令框架，增加引导，更易用
 * 增加智能识别id,文件夹名，智能填充上次常用信息等功能
 * https://www.icloud.com/shortcuts/cd15b29132f845cb834e69970e495d35
+
+### 2020-04-11 v2.1
+* 修复描述错误
+* https://www.icloud.com/shortcuts/a581221316754223afe66fc3c6ca8e32
