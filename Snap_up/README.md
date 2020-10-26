@@ -17,7 +17,7 @@
 ### 2020-05-28 v2.1
 * 更新选项的排版
 * 优化云端json架构
-* https://www.icloud.com/shortcuts/dca53a0ff3704f22badb7009b828b495
+*  
 
 ### 2020-05-16 v2.0
 * 重大更新！
