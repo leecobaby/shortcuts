@@ -17,7 +17,7 @@ QQ群:605346047
 * 增加活动大厅生态板块
 * 优化助力大厅板块
 * 增加任务扫尾提醒
-* https://www.icloud.com/shortcuts/29adb59ce90b42a6b82e88d29d46e397
+* https://www.icloud.com/shortcuts/db359887fea14a61b0f0cd7c43642e4f
 
 ### 2020-10-30 v1.4
 * 修复逻辑错误带来的死机问题
