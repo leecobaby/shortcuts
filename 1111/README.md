@@ -15,7 +15,7 @@ QQ群:605346047
 * 暴力解决顽固性不黑屏问题
 * 新增可选择性做任务
 * 新增停止后下次运行继续上次后面任务
-* https://www.icloud.com/shortcuts/72c57cf2fca4410ab4effbee3c878e63
+* https://www.icloud.com/shortcuts/bad13c54618343f8b32bc5698d70ec37
 
 ### 2020-11-06 v1.7
 * 修复个小问题
