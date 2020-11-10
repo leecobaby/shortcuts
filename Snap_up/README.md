@@ -19,7 +19,7 @@
 ### 2020-11-10 v2.3
 * 修复识别出错问题
 * 增加对emoji口令的识别
-* https://www.icloud.com/shortcuts/b6aec24c0c50404cbc7b32cb5d8b8df5
+* https://www.icloud.com/shortcuts/7f8363766e774f8caf92db430d1152f9
 
 ### 2020-11-09 v2.2
 * 优化更新功能
