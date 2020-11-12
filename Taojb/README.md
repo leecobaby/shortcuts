@@ -14,4 +14,4 @@ QQ群:605346047
 ### 2020-11-12 v1.0
 * 初步实现淘金币自动任务
 * 采用自动养猫框架
-* https://www.icloud.com/shortcuts/f7616a13456b409582d57ae30ad1e959
+* https://www.icloud.com/shortcuts/7fdb5eab880045b3be23f4f7f479da7c
