@@ -10,15 +10,21 @@ QQ群:605346047
 
 ## 版本日志
 
-### 2020-11-12 v1.0
-* 初步实现淘金币自动任务
-* 采用自动养猫框架
-* https://www.icloud.com/shortcuts/7fdb5eab880045b3be23f4f7f479da7c
+### 2020-11-20 v1.2
+* 增加逛店铺领金币功能
+* 结束任务引导领取能量
+* https://www.icloud.com/shortcuts/df60a474f6cb413da6566270c2f2c09e
 
 ### 2020-11-15 v1.1
 * 完善淘金币自动任务数据
 * 完善部分功能
 * https://www.icloud.com/shortcuts/af26740ccc1845ecb745bb98e1366458
+
+### 2020-11-12 v1.0
+* 初步实现淘金币自动任务
+* 采用自动养猫框架
+* https://www.icloud.com/shortcuts/7fdb5eab880045b3be23f4f7f479da7c
+
 
 ## 免责申明
 * 本快捷指令仅用于学习交流使用
