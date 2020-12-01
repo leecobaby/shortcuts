@@ -13,8 +13,7 @@ QQ群:605346047
 ### 2020-12-1 v1.0
 * 初步实现自动任务
 * 采用自动淘金币框架
-* https://www.icloud.com/shortcuts/fefbb2e70cd04c73854fdf4478c498c9
-
+* https://www.icloud.com/shortcuts/2de1ecb5557a440dbf15282c76af6906
 
 ## 免责申明
 * 本快捷指令仅用于学习交流使用
