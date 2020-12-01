@@ -15,7 +15,7 @@ QQ群:605346047
 * 增加老手模式
 * 重建云端数据架构
 * 重建指令架构
-* https://www.icloud.com/shortcuts/a3d960728f714643a31d172d7d00c84a
+* https://www.icloud.com/shortcuts/e999c1e6b5e449cea6b9a7255414e6c0
 
 ### 2020-11-24 v1.3
 * 修复活动大厅错误
