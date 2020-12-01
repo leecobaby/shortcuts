@@ -8,7 +8,7 @@
 
 ## 导航
 
-### 双十二自动欢乐造
+### 双十二欢乐造自动任务
 https://github.com/LeecoGit/shortcuts/tree/master/1212hlz
 
 ### 淘金币自动任务
