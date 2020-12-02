@@ -5,7 +5,8 @@
 - iphone快捷指令
 
 联系:
-- https://t.me/xuehuashe
+- qq群:605346047
+- tg群:https://t.me/xuehuashe_chat
 
 
 ## 导航
