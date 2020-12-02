@@ -12,7 +12,7 @@
 https://github.com/LeecoGit/shortcuts/tree/master/1212hlz
 
 ### 淘金币自动任务
-https://github.com/LeecoGit/shortcuts/tree/master/Tabjb
+https://github.com/LeecoGit/shortcuts/tree/master/Taojb
 
 ### 双十一淘宝自动养猫
 https://github.com/LeecoGit/shortcuts/tree/master/1111
