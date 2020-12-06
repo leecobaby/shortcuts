@@ -10,9 +10,17 @@ QQ群:605346047
 
 ## 版本日志
 
+### 2020-12-06 v1.4
+* 修复不访问配置文件问题
+* https://www.icloud.com/shortcuts/8b2b3e6f4d4a4bb1afb234d2636fcc34
+
+### 2020-12-06 v1.3
+* 修复配置文件重大BUG
+* https://www.icloud.com/shortcuts/6460fc2982444b6ba14ddc21b9547fd2
+
 ### 2020-12-06 v1.2
 * 修复时间错误
-* https://www.icloud.com/shortcuts/e3307d90448d4a30a50669a29555d525
+* https://www.icloud.com/shortcuts/cb94c0f85491482d949fbd862763c37f
 
 ### 2020-12-06 v1.1
 * 增加淘宝特价版任务设置
