@@ -14,7 +14,7 @@ QQ群:605346047
 * 增加淘宝特价版任务设置
 * 增加自动化运行功能
 * 修复任务次数显示
-* https://www.icloud.com/shortcuts/8718e0d20973469d8657d8e999cc90ba
+* https://www.icloud.com/shortcuts/8b799f495f4244b0bda89b70180ca73f
 
 ### 2020-12-1 v1.0
 * 初步实现自动任务
