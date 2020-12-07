@@ -10,6 +10,11 @@ QQ群:605346047
 
 ## 版本日志
 
+### 2020-12-06 v1.6
+* 修复还没删除文件就执行下去的问题
+* 强制让你们执行两遍
+* https://www.icloud.com/shortcuts/fa04822bbe9043d88ba120ff7cecba02
+
 ### 2020-12-06 v1.5
 * 修复set配置文件为空问题
 * https://www.icloud.com/shortcuts/fcdfb97d50dd4151a84737be5ac3060a
