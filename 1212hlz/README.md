@@ -14,7 +14,7 @@ QQ群:605346047
 * 修复天猫和特价版任务异常
 * 支持ipad用户正常任务
 * 优化多账号任务
-* https://www.icloud.com/shortcuts/eee14ba511354078b435294e8ba2b8f1
+* https://www.icloud.com/shortcuts/9f74cfa4c2544ca08a9e4112f310f4b4
 
 ### 2020-12-07 v1.7
 * 增加多账号，多app模式
