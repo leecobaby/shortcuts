@@ -10,6 +10,12 @@ QQ群:605346047
 
 ## 版本日志
 
+### 2020-12-08 v1.8
+* 修复天猫和特价版任务异常
+* 支持ipad用户正常任务
+* 优化多账号任务
+* https://www.icloud.com/shortcuts/eee14ba511354078b435294e8ba2b8f1
+
 ### 2020-12-07 v1.7
 * 增加多账号，多app模式
 * 修复部分机型无限修复问题
@@ -21,7 +27,7 @@ QQ群:605346047
 * 强制让你们执行两遍
 * https://www.icloud.com/shortcuts/fa04822bbe9043d88ba120ff7cecba02
 
-### 2020-12-06 v1.5
+### 2020-12-06 v1.5 存在无限更新问题！
 * 修复set配置文件为空问题
 * https://www.icloud.com/shortcuts/fcdfb97d50dd4151a84737be5ac3060a
 
