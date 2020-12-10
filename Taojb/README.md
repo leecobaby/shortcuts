@@ -13,7 +13,7 @@ QQ群:605346047
 ### 2020-12-10 v1.6
 * 增加修复功能来解决一些问题
 * 修复自动化出错bug,感谢微信粉丝@Q
-* https://www.icloud.com/shortcuts/4cfadac92bd147ff8d4dda023c1b6284
+* https://www.icloud.com/shortcuts/821b1198003d4ac58fd64f3576bb681d
 
 ### 2020-12-10 v1.5
 * 新增多账号、自动化功能
