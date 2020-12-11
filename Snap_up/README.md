@@ -12,9 +12,14 @@
 * ⚠️注意:本工具需配合相关群抢购消息，一起使用，不懂用法的请加下面群。
 
   QQ群:605346047
-  Github:https://github.com/LeecoGit/shortcuts/tree/master/Snap_up
 
 ## 版本日志
+
+### 2020-12-10 v2.5
+* 增加内容识别特征
+* 优化全国访问速度
+* https://www.icloud.com/shortcuts/f8b5038fbdab4532aaa2c795775457ca
+
 
 ### 2020-11-22 v2.4
 * 增强内容识别和跳转准确性
