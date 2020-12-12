@@ -13,7 +13,7 @@ TG群:https://t.me/xuehuashe_chat
 * 初步实现自动任务
 * 支持自动化、多账号、ipad终端
 * 采用自动淘宝任务框架
-* https://www.icloud.com/shortcuts/c3b44d11d7694367a864bba4f997cea9
+* https://www.icloud.com/shortcuts/3093e458467e44f1b903c08cf7ad861c
 
 ## 免责申明
 * 本快捷指令仅用于学习交流使用
