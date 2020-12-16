@@ -21,4 +21,5 @@ https://github.com/leecobaby/shortcuts/tree/master/Taojb
 https://github.com/leecobaby/shortcuts/tree/master/1111
 
 ## 免责声明
+Copyright © 2020 Leeco • leeco.io • @leecobaby
 - 本作者发布的本快捷指令及其信息仅用于学习交流使用，切勿用于商业及非法用途，否则后果自负。
