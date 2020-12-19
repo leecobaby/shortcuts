@@ -19,7 +19,8 @@ TG群:https://t.me/xuehuashe_chat
 - 优化版本日志显示功能
 - 优化云端架构
 - 增加打开活动页面便于其他操作
-- https://www.icloud.com/shortcuts/51de749cdacd4f928d82af8af73a8901
+
+https://www.icloud.com/shortcuts/51de749cdacd4f928d82af8af73a8901
 
 ## 免责申明
 - 本快捷指令仅用于学习交流使用
