@@ -9,6 +9,13 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2020-12-22 v1.1
+- 自动化直接从头开始任务
+- 修复自动化的一个bug
+- 增加模块化接口
+
+https://www.icloud.com/shortcuts/70f12aaf7fe446c2aa9e2971e78a6f90
+
 ### 2020-12-16 v1.0
 - 初步实现自动任务
 - 支持自动化、多账号、ipad终端

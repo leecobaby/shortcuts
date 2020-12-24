@@ -11,11 +11,11 @@
 
 ## 导航
 
-### 双十二欢乐造自动任务
-https://github.com/leecobaby/shortcuts/tree/master/1212hlz
-
 ### 淘金币自动任务
 https://github.com/leecobaby/shortcuts/tree/master/Taojb
+
+### 双十二欢乐造自动任务
+https://github.com/leecobaby/shortcuts/tree/master/1212hlz
 
 ### 双十一淘宝自动养猫
 https://github.com/leecobaby/shortcuts/tree/master/1111

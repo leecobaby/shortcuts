@@ -9,6 +9,11 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2020-12-21 v1.3
+- 修复一个自动化的bug
+
+https://www.icloud.com/shortcuts/9ec01ba07b5342a486c3bd10202ece68
+
 ### 2020-12-20 v1.2
 - 修复个错误
 
