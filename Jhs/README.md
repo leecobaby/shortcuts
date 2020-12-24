@@ -19,7 +19,7 @@ TG群:https://t.me/xuehuashe_chat
 - 增加模块化接口
 - 自动化直接默认不继续上次任务
 
-https://www.icloud.com/shortcuts/554c292d93a64b88997cda1bec5086a8
+https://www.icloud.com/shortcuts/26b702e4c17745ddae7e2e9a04c6ac7b
 
 ### 2020-12-13 v1.0
 - 初步实现自动任务

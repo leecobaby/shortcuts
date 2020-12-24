@@ -20,7 +20,7 @@ TG群:https://t.me/xuehuashe_chat
 - 实现框架的循环使用、灵活调用
 - 实现计划任务的自由勾选、巧妙排序
 
-https://www.icloud.com/shortcuts/413c9627d1c24007bf0f9bc24a006da3
+https://www.icloud.com/shortcuts/554c292d93a64b88997cda1bec5086a8
 
 ## 免责申明
 - 本快捷指令仅用于学习交流使用
