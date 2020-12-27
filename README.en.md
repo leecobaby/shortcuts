@@ -1,6 +1,6 @@
 ## License
 
-Copyright © 2020 Leeco • leeco.io • @leecobaby
+Copyright © 2020 Leeco • @leecobaby
 
 Based on GPLv3 terms
 

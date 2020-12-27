@@ -11,6 +11,15 @@
 
 ## 导航
 
+### 活力中心自动任务
+https://github.com/leecobaby/shortcuts/tree/master/Hlzx
+
+### 聚划算章鱼自动任务
+https://github.com/leecobaby/shortcuts/tree/master/Jhs
+
+### 芭芭农场自动集肥料
+https://github.com/leecobaby/shortcuts/tree/master/Qmxb
+
 ### 淘金币自动任务
 https://github.com/leecobaby/shortcuts/tree/master/Taojb
 
@@ -21,5 +30,5 @@ https://github.com/leecobaby/shortcuts/tree/master/1212hlz
 https://github.com/leecobaby/shortcuts/tree/master/1111
 
 ## 免责声明
-Copyright © 2020 Leeco • leeco.io • @leecobaby
+Copyright © 2020 Leeco • @leecobaby
 - 本作者发布的本快捷指令及其信息仅用于学习交流使用，切勿用于商业及非法用途，否则后果自负。
