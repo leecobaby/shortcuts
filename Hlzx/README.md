@@ -11,8 +11,10 @@ TG群:https://t.me/xuehuashe_chat
 
 ### 2020-12-21 v1.3
 - 修复一个自动化的bug
+- 修复iPad无法运行问题
+- 优化刷步的逻辑,解决无法刷上问题
 
-https://www.icloud.com/shortcuts/9ec01ba07b5342a486c3bd10202ece68
+https://www.icloud.com/shortcuts/5eb344e14d164e11b861a962a0c9f55d
 
 ### 2020-12-20 v1.2
 - 修复个错误
