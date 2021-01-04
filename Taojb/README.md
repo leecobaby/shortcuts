@@ -10,6 +10,13 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-01-04 v1.9
+- 优化自动化通知声音
+- 优化架构
+- 优化自动化链接的选项
+
+https://www.icloud.com/shortcuts/f890e57c37744519928db4dbd9432b79
+
 ### 2020-12-21 v1.8
 - 自动化直接从头开始任务
 - 修复自动化的一个bug
