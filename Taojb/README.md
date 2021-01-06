@@ -10,6 +10,11 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-01-06 v2.0
+- 修复自动化运行出错问题
+
+https://www.icloud.com/shortcuts/794e1614d91946138e7f3e00f8fd2b4e
+
 ### 2021-01-04 v1.9
 - 优化自动化通知声音
 - 优化架构
