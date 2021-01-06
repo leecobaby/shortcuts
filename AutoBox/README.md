@@ -49,7 +49,7 @@ TG 频道:https://t.me/xuehuashe
 - 修复 单个订阅模块导致配置时出错问题
 - 优化 商城 API 访问逻辑
 
-https://www.icloud.com/shortcuts/25997d0ad93b4f7298b9057583cd44e0
+https://www.icloud.com/shortcuts/56b8b66dca6043e1ae364ffae170aa53
 
 ### 2020-12-24 v1.0
 
