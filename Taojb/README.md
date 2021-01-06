@@ -13,7 +13,7 @@ TG群:https://t.me/xuehuashe_chat
 ### 2021-01-06 v2.0
 - 修复自动化运行出错问题
 
-https://www.icloud.com/shortcuts/794e1614d91946138e7f3e00f8fd2b4e
+https://www.icloud.com/shortcuts/d2d6925a17ca46a08f453d05b34bd635
 
 ### 2021-01-04 v1.9
 - 优化自动化通知声音
