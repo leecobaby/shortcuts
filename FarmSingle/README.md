@@ -15,7 +15,7 @@ TG群:https://t.me/xuehuashe_chat
 - 优化 自动化引导
 - 优化 常见问题
 
-https://www.icloud.com/shortcuts/2f866bce7778429f85f030b52ddbdf92
+https://www.icloud.com/shortcuts/fb658f1450ba4a37901864fa98edea59
 
 ### 2021-01-02 v1.2
 - 优化自动化通知声音
