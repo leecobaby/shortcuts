@@ -9,6 +9,14 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-01-17 v1.3
+- 增加 对集福气活动的支持
+- 增加 助力大厅
+- 优化 自动化引导
+- 优化 常见问题
+
+https://www.icloud.com/shortcuts/2f866bce7778429f85f030b52ddbdf92
+
 ### 2021-01-02 v1.2
 - 优化自动化通知声音
 - 优化架构
