@@ -5,7 +5,7 @@
 - iphone快捷指令
 
 联系:
-- qq群:605346047
+- qq群:819021110
 - tg频道:https://t.me/xuehuashe
 
 

@@ -21,7 +21,7 @@ TG频道:https://t.me/xuehuashe
 - 采用本地执行任务，保障所有隐私数据
 
 
-https://www.icloud.com/shortcuts/c4bccafe0e74452bb09e0d97ac02f776
+https://www.icloud.com/shortcuts/04da6dcf21d64efca59cd25c92363382
 
 
 ## 免责申明
