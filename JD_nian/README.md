@@ -20,7 +20,7 @@ TG频道:https://t.me/xuehuashe
 - 增加 任务完成量，可做大部分任务
 - 增加 收取爆竹功能
 
-https://www.icloud.com/shortcuts/ae63cd5c1d6a4beb835c52b573a2c168
+https://www.icloud.com/shortcuts/37241a05e0f74c63b29cf484b3463ec7
 
 ### 2021-01-19 v1.0
 - 初步实现自动完成部分浏览任务
