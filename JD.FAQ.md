@@ -6,6 +6,9 @@
 ### 如何获取Cookie
 - [电脑浏览器获取京东cookie教程](https://github.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie1.md)
 - [手机stream app获取京东cookie教程](https://github.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie2.md)
+> 上面显示不了图片的，可以查看下面链接
+> - [电脑浏览器获取京东cookie教程](https://gitee.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie1.md)
+> - [手机stream app获取京东cookie教程](https://gitee.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie2.md)
 
 ### 为什么会弹出权限通知
 - 这是快捷指令的权限规则，第一次使用需要确认快捷指令整个流程内的权限确认，如果不确认可能无法正常使用
