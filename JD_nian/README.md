@@ -14,6 +14,12 @@ TG频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-01-21 v1.2
+- 增加 逛小镇、领券、抽奖任务
+- 优化架构，增加云端数据版本信息
+
+https://www.icloud.com/shortcuts/ab18976c29b34b299ae10234fd7b6927
+
 ### 2021-01-20 v1.1
 - 重新设计架构，采用云端任务数据
 - 增加 JSBox获取Cookie方式
