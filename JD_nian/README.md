@@ -8,11 +8,17 @@
 
 TG频道:https://t.me/xuehuashe
 
-## 获取Cookie
-- [电脑浏览器获取京东cookie教程](https://github.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie1.md)
-- [手机stream app获取京东cookie教程](https://github.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie2.md)
 
 ## 版本日志
+
+### 2021-01-23 v1.3
+- 增加 授权登录极大简化获取cookie难题
+- 增加 账号会话验证提示
+- 优化 架构内容
+- 修复 data 键值弹出错误
+- 去除 旧的获取cookie方式
+
+https://www.icloud.com/shortcuts/b5c7fa087d014870b018c7fd7b3a5dfc
 
 ### 2021-01-21 v1.2
 - 增加 逛小镇、领券、抽奖任务
@@ -36,6 +42,11 @@ https://www.icloud.com/shortcuts/37241a05e0f74c63b29cf484b3463ec7
 
 
 https://www.icloud.com/shortcuts/04da6dcf21d64efca59cd25c92363382
+
+
+## 获取Cookie
+- [电脑浏览器获取京东cookie教程](https://github.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie1.md)
+- [手机stream app获取京东cookie教程](https://github.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie2.md)
 
 
 ## 免责申明
