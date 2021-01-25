@@ -15,7 +15,7 @@ TG频道:https://t.me/xuehuashe
 - 优化 data 键值弹出错误
 - 恢复 ios13 手动输入cookie方式
 
-https://www.icloud.com/shortcuts/f6febac3fd0e4d46bfe1ec8174007bbc
+https://www.icloud.com/shortcuts/fea3b376345542fc8e214e2fcc781e4f
 
 ### 2021-01-23 v1.3
 - 增加 授权登录极大简化获取cookie难题
