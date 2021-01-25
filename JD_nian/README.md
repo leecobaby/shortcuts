@@ -10,6 +10,12 @@ TG频道:https://t.me/xuehuashe
 
 
 ## 版本日志
+- 增加 助力功能，可自行配置助力码
+- 增加 年兽AR游戏任务
+- 优化 data 键值弹出错误
+- 恢复 ios13 手动输入cookie方式
+
+https://www.icloud.com/shortcuts/f6febac3fd0e4d46bfe1ec8174007bbc
 
 ### 2021-01-23 v1.3
 - 增加 授权登录极大简化获取cookie难题
