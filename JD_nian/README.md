@@ -11,6 +11,17 @@ TG频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-01-28 v1.7
+- 修复 组队助力任务错误
+
+https://www.icloud.com/shortcuts/e4d6027f5fa443c6a70ca2140eceed01
+
+### 2021-01-27 v1.6
+- 增加 PK部分任务，8-20点做任务
+- 优化 剩余任务完成度
+
+https://www.icloud.com/shortcuts/b2c6db9b4c614838a5e75a360ac43a76
+
 ### 2021-01-26 v1.5
 - 增加 检查剩余未做任务补做大幅增加任务完成度
 - 增加 店铺签到任务，加入会员任务
