@@ -11,6 +11,26 @@ TG频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-01-29 v2.0
+- 修复 多账号登录授权错误
+
+https://www.icloud.com/shortcuts/085694d22a8f4be49d2c4ac8a9eac1de
+
+### 2021-01-29 v1.9
+- 优化 更新快捷指令保留助力码
+- 修复 任务方法错误
+
+https://www.icloud.com/shortcuts/93896809d21743faa255e9ba4e5791dc
+
+### 2021-01-29 v1.8
+- 增加 多账号任务功能，最多支持三个账号
+- 增加 可选择性做任务
+- 优化 ipad 兼容性
+- 优化 指令架构
+
+https://www.icloud.com/shortcuts/3bd9cb03eec640d0b98fa220441fe130
+
+
 ### 2021-01-28 v1.7
 - 修复 组队助力任务错误
 
