@@ -12,3 +12,8 @@
 - 增加 搜索关键字送福
 
 https://www.icloud.com/shortcuts/1a541fdea3834a1494fff73027ecc5e6
+
+
+## 免责申明
+- 本快捷指令仅用于学习交流使用
+- 切勿用于商业及非法用途

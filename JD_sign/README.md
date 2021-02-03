@@ -1,4 +1,4 @@
-# 京东-自动签到
+# 京东-多合一签到
 
 ## 功能说明
 
@@ -10,13 +10,13 @@ TG频道:https://t.me/xuehuashe
 
 ## 版本日志
 
-### 2021-01-16 v1.0
+### 2021-2-3 v1.1
 - 初步实现10种自动签到功能
 - 实现签到日志查看
 - 采用云端任务数据架构自动订阅
 - 采用本地执行任务，保障所有隐私数据
 
-https://www.icloud.com/shortcuts/c4bccafe0e74452bb09e0d97ac02f776
+https://www.icloud.com/shortcuts/8623b24cddec4c03ab17469dcebc394b
 
 
 ## 免责申明
