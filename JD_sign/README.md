@@ -10,13 +10,20 @@ TG频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-02-05 v1.2
+- 修复 授权登录方式
+- 修复 一些问题
+- 优化 架构
+
+https://www.icloud.com/shortcuts/7700808a249a480895b03f3c5a64ea40
+
 ### 2021-2-3 v1.1
 - 初步实现10种自动签到功能
 - 实现签到日志查看
 - 采用云端任务数据架构自动订阅
 - 采用本地执行任务，保障所有隐私数据
 
-https://www.icloud.com/shortcuts/8623b24cddec4c03ab17469dcebc394b
+https://www.icloud.com/shortcuts/eab7feef429743d2b16a2857f30accc1
 
 
 ## 免责申明

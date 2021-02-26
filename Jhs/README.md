@@ -9,6 +9,12 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-02-06 v1.2
+- 优化 指令兼容性
+- 优化 指令架构
+
+https://www.icloud.com/shortcuts/971d0d7b54da4964905e7da2245bbf34
+
 ### 2020-12-21 v1.1
 - 优化重构指令框架减少冗余
 - 优化省点模式的逻辑,在运行之后在省电

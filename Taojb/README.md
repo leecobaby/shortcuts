@@ -10,6 +10,12 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-02-06 v2.1
+- 优化 指令兼容性
+- 优化 指令架构
+
+https://www.icloud.com/shortcuts/1636796e5e674127a3835e92a6416526
+
 ### 2021-01-06 v2.0
 - 修复自动化运行出错问题
 

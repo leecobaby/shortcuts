@@ -10,12 +10,19 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-02-05 v1.1
+- 优化 任务不读条问题
+- 优化 默认客户端改成淘宝特价版
+- 优化 指令架构兼容性
+
+https://www.icloud.com/shortcuts/96fd4ffff90840f5a65d10f0fe1d5f5e
+
 ### 2021-02-02 v1.0
 - 增加 简单的自动任务
 - 增加 自动做助力任务
 - 采用 淘宝云端任务框架
 
-https://www.icloud.com/shortcuts/a103add75bdf435a9f1580b37cb857e5
+https://www.icloud.com/shortcuts/0de1b82ac2bd4172a703946427b8718e
 
 
 ## 免责申明
