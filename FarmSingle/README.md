@@ -9,6 +9,12 @@ TG频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-02-26 v1.4
+- 增加 多线路模式
+- 更新 活动数据
+
+https://www.icloud.com/shortcuts/e5924372b0724dc4aa8e2c57fe063b1e
+
 ### 2021-01-17 v1.3
 - 增加 对集福气活动的支持
 - 增加 助力大厅

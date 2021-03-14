@@ -12,9 +12,9 @@ TG群:https://t.me/xuehuashe_chat
 ### 2021-02-26 v1.0
 - 采用 淘宝任务框架
 - 增加 多线路模式
-- 优化 路径
+- 优化 文件路径
 
-https://www.icloud.com/shortcuts/9381474d05284c6889d28ec570d66ef9
+https://www.icloud.com/shortcuts/f89486a1677847edaaee88f34ad01bd7
 
 
 ## 免责申明
