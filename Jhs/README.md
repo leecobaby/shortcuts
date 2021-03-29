@@ -9,6 +9,12 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-03-26 v1.3
+- 增加 多线路模式
+- 更新 任务数据
+
+https://www.icloud.com/shortcuts/c4b2bf29288f414895ea49bc73a14c0d
+
 ### 2021-02-06 v1.2
 - 优化 指令兼容性
 - 优化 指令架构

@@ -9,6 +9,12 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-03-24 v1.4
+- 增加 多线路模式
+- 更新 任务数据
+
+https://www.icloud.com/shortcuts/5b8067a64f374251b4bf0afea45ff840
+
 ### 2020-12-21 v1.3
 - 修复一个自动化的bug
 - 修复iPad无法运行问题
