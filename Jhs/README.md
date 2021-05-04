@@ -3,25 +3,34 @@
 ## 功能说明
 
 - 实现简单的聚划算章鱼自动任务
-- ⚠️注意:因各种权限原因，本快捷指令只能完成部分任务，剩余任务与自己看情况手动，作者会尽力往全自动更新，请关注新版本。
+- ⚠️ 注意:因各种权限原因，本快捷指令只能完成部分任务，剩余任务与自己看情况手动，作者会尽力往全自动更新，请关注新版本。
 
-TG群:https://t.me/xuehuashe_chat
+TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-05-04 v1.4
+
+- 优化 部分逻辑
+
+https://www.icloud.com/shortcuts/3c17dc4392f44171bdc7d71d681a3903
+
 ### 2021-03-26 v1.3
+
 - 增加 多线路模式
 - 更新 任务数据
 
 https://www.icloud.com/shortcuts/c4b2bf29288f414895ea49bc73a14c0d
 
 ### 2021-02-06 v1.2
+
 - 优化 指令兼容性
 - 优化 指令架构
 
 https://www.icloud.com/shortcuts/971d0d7b54da4964905e7da2245bbf34
 
 ### 2020-12-21 v1.1
+
 - 优化重构指令框架减少冗余
 - 优化省点模式的逻辑,在运行之后在省电
 - 优化版本日志显示功能
@@ -34,12 +43,14 @@ https://www.icloud.com/shortcuts/971d0d7b54da4964905e7da2245bbf34
 https://www.icloud.com/shortcuts/26b702e4c17745ddae7e2e9a04c6ac7b
 
 ### 2020-12-13 v1.0
+
 - 初步实现自动任务
-- 支持自动化、多账号、ipad终端
+- 支持自动化、多账号、ipad 终端
 - 采用自动淘宝任务框架
 
 https://www.icloud.com/shortcuts/3093e458467e44f1b903c08cf7ad861c
 
 ## 免责申明
+
 - 本快捷指令仅用于学习交流使用
 - 切勿用于商业及非法用途
