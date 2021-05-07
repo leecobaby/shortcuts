@@ -3,19 +3,27 @@
 ## 功能说明
 
 - 实现简单的芭芭农场自动任务。
-- ⚠️注意:因各种权限原因，本快捷指令只能完成部分任务，剩余任务与自己看情况手动，作者会尽力往全自动更新，请关注新版本。
+- ⚠️ 注意:因各种权限原因，本快捷指令只能完成部分任务，剩余任务与自己看情况手动，作者会尽力往全自动更新，请关注新版本。
 
-TG频道:https://t.me/xuehuashe
+TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-05-06 v1.5
+
+- 优化 部分逻辑
+
+https://www.icloud.com/shortcuts/b6d2c363bdff4100b892810ec4509654
+
 ### 2021-02-26 v1.4
+
 - 增加 多线路模式
 - 更新 活动数据
 
 https://www.icloud.com/shortcuts/e5924372b0724dc4aa8e2c57fe063b1e
 
 ### 2021-01-17 v1.3
+
 - 增加 对集福气活动的支持
 - 增加 助力大厅
 - 优化 自动化引导
@@ -24,21 +32,24 @@ https://www.icloud.com/shortcuts/e5924372b0724dc4aa8e2c57fe063b1e
 https://www.icloud.com/shortcuts/fb658f1450ba4a37901864fa98edea59
 
 ### 2021-01-02 v1.2
+
 - 优化自动化通知声音
 - 优化架构
 
 https://www.icloud.com/shortcuts/c4bccafe0e74452bb09e0d97ac02f776
 
 ### 2020-12-22 v1.1
+
 - 自动化直接从头开始任务
-- 修复自动化的一个bug
+- 修复自动化的一个 bug
 - 增加模块化接口
 
 https://www.icloud.com/shortcuts/70f12aaf7fe446c2aa9e2971e78a6f90
 
 ### 2020-12-16 v1.0
+
 - 初步实现自动任务
-- 支持自动化、多账号、ipad终端
+- 支持自动化、多账号、ipad 终端
 - 采用新设计的自动淘宝任务框架
 - 优化命名的方式，使其更科学和易复制
 - 优化文档路径命名采用变量方式
@@ -50,5 +61,6 @@ https://www.icloud.com/shortcuts/70f12aaf7fe446c2aa9e2971e78a6f90
 https://www.icloud.com/shortcuts/51de749cdacd4f928d82af8af73a8901
 
 ## 免责申明
+
 - 本快捷指令仅用于学习交流使用
 - 切勿用于商业及非法用途
