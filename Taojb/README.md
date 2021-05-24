@@ -10,6 +10,13 @@ TG群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-05-24 v2.3
+- 新增 云端时间功能
+- 新增 等待长时间防假死功能
+- 弃用 动态时间功能
+
+https://www.icloud.com/shortcuts/ad5d41d7f29244debd2c7e28b7d498b5
+
 ### 2021-03-25 v2.2
 - 增加 多线路模式
 - 更新 任务数据
