@@ -1,5 +1,7 @@
 # shortcuts
 
+[![Join the chat at https://gitter.im/leecobaby-shortcuts/community](https://badges.gitter.im/leecobaby-shortcuts/community.svg)](https://gitter.im/leecobaby-shortcuts/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 归档一部分实用快捷指令，方便使用。
 
 关键词:
