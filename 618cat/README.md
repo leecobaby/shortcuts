@@ -9,6 +9,12 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-06-03 v1.1
+
+- 增加 助力大厅功能
+
+https://www.icloud.com/shortcuts/e39695f18a5643f9b61fc7b7c28b461d
+
 ### 2021-05-29 v1.0
 
 - 采用 淘宝任务框架
