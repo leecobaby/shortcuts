@@ -9,6 +9,13 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-06-05 v1.2
+
+- 增加 快速做剩余任务功能
+- 增加 随机助力功能
+
+https://www.icloud.com/shortcuts/373f7237053146d0bbe475e8eb6cecda
+
 ### 2021-06-03 v1.1
 
 - 增加 助力大厅功能
