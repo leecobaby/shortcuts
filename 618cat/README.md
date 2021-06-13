@@ -9,6 +9,13 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-06-14 v1.4
+
+- 改用 新的模拟浏览任务方案
+- 增加 支持自定义快速任务时间
+
+https://www.icloud.com/shortcuts/3c467d23294648ca8e0680d0aead41f6
+
 ### 2021-06-05 v1.2
 
 - 增加 快速做剩余任务功能

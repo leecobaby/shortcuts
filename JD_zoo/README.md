@@ -13,12 +13,12 @@ TG 频道:https://t.me/xuehuashe
 
 ### 2021-06-13 v1.0
 
-- 修复 任务接口是失效问题
+- 修复 任务接口失效问题
 - 增加 图鉴任务（不一定有用）
 - 修改 登录接口
 - 采用 本地运行模式，保障所有隐私
 
-https://www.icloud.com/shortcuts/25e31c00c44041aeba2aa1fc62f0c969
+https://www.icloud.com/shortcuts/f645a4df56084b7fa52ab2d339c0ba31
 
 ## 获取 Cookie
 
