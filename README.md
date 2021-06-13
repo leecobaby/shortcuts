@@ -15,6 +15,10 @@
 
 ## 导航
 
+### 京东-动物联盟
+
+https://github.com/leecobaby/shortcuts/tree/master/JD_zoo
+
 ### 天猫 618 自动养猫
 
 https://github.com/leecobaby/shortcuts/tree/master/618cat
