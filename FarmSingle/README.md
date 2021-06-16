@@ -9,6 +9,14 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-06-16 v1.6
+
+- 新增 云端时间功能
+- 新增 等待长时间防假死功能
+- 弃用 动态时间功能
+
+https://www.icloud.com/shortcuts/5526fe881e8f4c5eaa6e6ea2b609e394
+
 ### 2021-05-06 v1.5
 
 - 优化 部分逻辑
