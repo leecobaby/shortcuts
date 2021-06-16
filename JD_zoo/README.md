@@ -11,6 +11,12 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-06-15 v1.2
+
+- 修复 接口伪失效问题
+
+https://www.icloud.com/shortcuts/5a9a8f02365f4c04b99c8a65efe9e288
+
 ### 2021-06-15 v1.1
 
 - 优化 启动速度
