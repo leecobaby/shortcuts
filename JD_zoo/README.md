@@ -11,6 +11,15 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-06-17 v1.4
+
+- 修复 切换UA实则并没切换 bug
+- 修复 指令修复和删除 cookie 不退出指令 bug
+- 修复 接口失效还继续任务 bug
+- 解决 大部分人失效问题
+
+https://www.icloud.com/shortcuts/b35ed45000c94c9cbeff0956a676337e
+
 ### 2021-06-16 v1.3
 
 - 修复 部分账号接口失效问题
