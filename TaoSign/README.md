@@ -14,6 +14,7 @@ TG 群:https://t.me/xuehuashe_chat
 - 修复 云端时间假死问题
 - 修复 签到读条还未完成就跳转问题
 - 增加 天猫小黑盒任务
+- 增加 天猫美食任务
 
 https://www.icloud.com/shortcuts/ffef108852354d628d68b985a62ffa71
 
