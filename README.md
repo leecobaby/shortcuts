@@ -15,6 +15,10 @@
 
 ## 导航
 
+### 淘宝签到
+
+https://github.com/leecobaby/shortcuts/tree/master/TaoSign
+
 ### 京东-动物联盟
 
 https://github.com/leecobaby/shortcuts/tree/master/JD_zoo
