@@ -10,6 +10,14 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-09-16 v2.5
+
+- 新增 新版任务运行
+- 完善 活动数据
+- 弃用 做剩余任务
+
+https://www.icloud.com/shortcuts/f5b696373f694ca78d2d7b96f621d8f7
+
 ### 2021-09-12 v2.4
 
 - 修复 IOS15 运行任务完成后弹窗问题

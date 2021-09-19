@@ -3,31 +3,45 @@
 ## 功能说明
 
 - 实现简单的活力中心自动任务，和刷步功能
-- ⚠️注意:因各种权限原因，本快捷指令只能完成部分任务，剩余任务与自己看情况手动，作者会尽力往全自动更新，请关注新版本。
+- ⚠️ 注意:因各种权限原因，本快捷指令只能完成部分任务，剩余任务与自己看情况手动，作者会尽力往全自动更新，请关注新版本。
 
-TG群:https://t.me/xuehuashe_chat
+TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-09-18 v1.5
+
+- 修复 IOS15 运行任务完成后弹窗问题
+- 新增 云端时间功能
+- 弃用 动态时间功能
+- 更新 任务数据
+- 更新 活动数据
+
+https://www.icloud.com/shortcuts/59fd80aa88be4e419e0b8f11e43028d3
+
 ### 2021-03-24 v1.4
+
 - 增加 多线路模式
 - 更新 任务数据
 
 https://www.icloud.com/shortcuts/5b8067a64f374251b4bf0afea45ff840
 
 ### 2020-12-21 v1.3
-- 修复一个自动化的bug
-- 修复iPad无法运行问题
+
+- 修复一个自动化的 bug
+- 修复 iPad 无法运行问题
 - 优化刷步的逻辑,解决无法刷上问题
 
 https://www.icloud.com/shortcuts/5eb344e14d164e11b861a962a0c9f55d
 
 ### 2020-12-20 v1.2
+
 - 修复个错误
 
 https://www.icloud.com/shortcuts/e3b8220a90f840deb184d930582aa30a
 
 ### 2020-12-20 v1.1
+
 - 优化刷步逻辑
 - 优化重构指令框架减少冗余
 - 优化省点模式的逻辑,在运行之后在省电
@@ -41,12 +55,14 @@ https://www.icloud.com/shortcuts/e3b8220a90f840deb184d930582aa30a
 https://www.icloud.com/shortcuts/e3b8220a90f840deb184d930582aa30a
 
 ### 2020-12-14 v1.0
+
 - 初步实现自动任务、刷步
-- 支持自动化、多账号、ipad终端
+- 支持自动化、多账号、ipad 终端
 - 采用自动淘宝任务框架
 
 https://www.icloud.com/shortcuts/e5de5e61b1e342c5961b5678f92559d2
 
 ## 免责申明
+
 - 本快捷指令仅用于学习交流使用
 - 切勿用于商业及非法用途
