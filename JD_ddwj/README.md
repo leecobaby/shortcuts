@@ -11,6 +11,19 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-09-23 v1.2
+
+- 修复 UserName 风险账户问题
+- 优化 指令细节
+
+https://www.icloud.com/shortcuts/c073d0a8f62b47e590ef4201dc044930
+
+### 2021-09-23 v1.1
+
+- 修复 账号无限过期死循环
+
+https://www.icloud.com/shortcuts/2f9f2e6be6914cba8507c51ddf8afa62
+
 ### 2021-09-23 v1.0
 
 - 采用 本地运行模式，保障所有隐私
