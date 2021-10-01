@@ -58,6 +58,7 @@ TG 频道:https://t.me/xuehuashe
 
 ### 2021-10-01 v1.3
 
+- 不支持 ios13-14 系统
 - 修复 ios15 创建计划出错问题
 
 https://www.icloud.com/shortcuts/9680517977b3447e951f5dd1d556474d
