@@ -15,7 +15,7 @@ TG 群:https://t.me/xuehuashe_chat
 - 增加 新活动任务数据
 - 支持 自动化、AutoBox 运行
 
-https://www.icloud.com/shortcuts/73a386145acb48ec8b8b9afcba3afd9a
+https://www.icloud.com/shortcuts/f0133ba391ca48f19043183c95c5fd0e
 
 ## 免责申明
 
