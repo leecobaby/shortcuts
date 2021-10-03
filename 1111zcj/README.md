@@ -10,6 +10,11 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+- 增加 自动助力
+- 增加 简易化助力池
+
+https://www.icloud.com/shortcuts/c0c4b54fb7c349f1b37b562117f557e2
+
 ### 2021-10-01 v1.0
 
 - 增加 新活动任务数据
