@@ -9,6 +9,13 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-10-06 v1.3
+
+- 修复 IOS15 运行任务完成后弹窗问题
+- 更新 任务数据
+
+https://www.icloud.com/shortcuts/06d510e9ae494cb79eb4d12eb95dc13c
+
 ### 2021-07-17 v1.2
 
 - 修复 云端时间假死问题
