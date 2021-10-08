@@ -15,13 +15,19 @@
 
 ## 导航
 
+(很多并未列出)
+
+### 饿了么-自动领豆
+
+https://github.com/leecobaby/shortcuts/tree/master/ele_dou
+
 ### 淘宝签到
 
 https://github.com/leecobaby/shortcuts/tree/master/TaoSign
 
-### 京东-动物联盟
+### 京东-东东玩家
 
-https://github.com/leecobaby/shortcuts/tree/master/JD_zoo
+https://github.com/leecobaby/shortcuts/tree/master/JD_ddwj
 
 ### 天猫 618 自动养猫
 
