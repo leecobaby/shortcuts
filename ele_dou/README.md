@@ -15,7 +15,7 @@ TG 频道:https://t.me/xuehuashe
 
 - 实现 饿了么、支付宝、淘宝端 3 账号任务
 
-https://www.icloud.com/shortcuts/4a93785d67a843f49862aadc8af1ba4e
+https://www.icloud.com/shortcuts/eca188639fee46dd9a6928dc1df7be26
 
 ### 免责申明
 
