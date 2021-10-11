@@ -18,7 +18,7 @@ TG 频道:https://t.me/xuehuashe
 - 实现 多账号 Cookie 的提取
 - 实现 云端更新推送任务
 
-https://www.icloud.com/shortcuts/ace141cdacc34ba18606c661d68cdbb1
+https://www.icloud.com/shortcuts/5d0afefc3c4b432b8d6896558a51e4fd
 
 ## 获取 Cookie
 
