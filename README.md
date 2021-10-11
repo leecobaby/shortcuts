@@ -15,7 +15,7 @@
 
 ## 导航
 
-(很多并未列出)
+(很多并未列出,一个文件夹代表一个快捷指令)
 
 ### 饿了么-自动领豆
 
@@ -25,9 +25,9 @@ https://github.com/leecobaby/shortcuts/tree/master/ele_dou
 
 https://github.com/leecobaby/shortcuts/tree/master/TaoSign
 
-### 京东-东东玩家
+### 京东-东东农场
 
-https://github.com/leecobaby/shortcuts/tree/master/JD_ddwj
+https://github.com/leecobaby/shortcuts/tree/master/JD_fruit
 
 ### 天猫 618 自动养猫
 
@@ -45,7 +45,7 @@ https://github.com/leecobaby/shortcuts/tree/master/Hlzx
 
 https://github.com/leecobaby/shortcuts/tree/master/Jhs
 
-### 芭芭农场自动集肥料 - 支持年货节集福气
+### 芭芭农场自动集肥料
 
 https://github.com/leecobaby/shortcuts/tree/master/Qmxb
 
