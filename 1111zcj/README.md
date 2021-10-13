@@ -10,6 +10,13 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-10-13 v1.2
+
+- 增加 ios15 未指定文件夹的解决方法提示
+- 增加 做 500 次浏览任务功能
+
+https://www.icloud.com/shortcuts/ebc3d058584a4f57a336f7f13bd6bbba
+
 ### 2021-10-04 v1.1
 
 - 增加 自动助力
