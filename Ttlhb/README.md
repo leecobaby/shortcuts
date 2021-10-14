@@ -15,7 +15,7 @@ TG 群:https://t.me/xuehuashe_chat
 - 修复 ios15 运行完弹窗问题
 - 更新 任务数据
 
-https://www.icloud.com/shortcuts/93d59d8d29794922b37eba2568238e2c
+https://www.icloud.com/shortcuts/ed56dc80faef422184d7f638d177c1e6
 
 ### 2021-03-11 v1.1
 
@@ -24,7 +24,7 @@ https://www.icloud.com/shortcuts/93d59d8d29794922b37eba2568238e2c
 - 优化 文件路径
 - 采用 淘宝任务框架
 
-https://www.icloud.com/shortcuts/ed56dc80faef422184d7f638d177c1e6
+https://www.icloud.com/shortcuts/075b4ca189c84c968bf95d7380bdfea1
 
 ### 2020-12-1 v1.0
 
