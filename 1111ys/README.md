@@ -15,7 +15,7 @@ TG 群:https://t.me/xuehuashe_chat
 - 支持 助力池
 - 支持 自动化、AutoBox 运行
 
-https://www.icloud.com/shortcuts/c78fc9f4ec9843ef987fe1cc56b46bb9
+https://www.icloud.com/shortcuts/cee53bb05eec4161ba090a9a199ccf60
 
 ## 免责申明
 
