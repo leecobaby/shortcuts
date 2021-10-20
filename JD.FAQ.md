@@ -12,6 +12,18 @@
   > - [电脑浏览器获取京东 cookie 教程](https://gitee.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie1.md)
   > - [手机 stream app 获取京东 cookie 教程](https://gitee.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie2.md)
 
+### 运行指令显示未指定文件夹
+
+这种状况一般出现在 ios15 且以前未用过这些指令的手机上，不难解决
+
+- 先关闭设备的 VPN 代理，保证网络畅通访问 iCloud 服务器
+- 去往 设置->id->iCloud->打开 iCloud 云盘，再去往 iCloud 云盘查看是否存在"Shortcuts"文件夹，如果没有则创建一个
+- 如果还不行就很可能同一个 id 同时登录了两台不同系统的设备。这个时候需要将高系统版本的设备去往 设置->快捷指令->关闭 iCloud 同步功能，删了对应指令和自动化，重启设备重新安装
+
+### 快捷指令“词典错误”怎么办
+
+- 90%的概率 输入的 Cookie 是错误的！
+
 ### 为什么会弹出权限通知
 
 - 这是快捷指令的权限规则，第一次使用需要确认快捷指令整个流程内的权限确认，如果不确认可能无法正常使用
