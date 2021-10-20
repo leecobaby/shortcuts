@@ -17,6 +17,10 @@
 
 (很多并未列出,一个文件夹代表一个快捷指令)
 
+### 京东-双 11 环游记
+
+https://github.com/leecobaby/shortcuts/tree/master/jd_travel
+
 ### 饿了么-自动领豆
 
 https://github.com/leecobaby/shortcuts/tree/master/ele_dou
