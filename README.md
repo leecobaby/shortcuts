@@ -19,7 +19,7 @@
 
 ### 京东-双 11 环游记
 
-https://github.com/leecobaby/shortcuts/tree/master/jd_travel
+https://github.com/leecobaby/shortcuts/tree/master/JD_travel
 
 ### 饿了么-自动领豆
 
