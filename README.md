@@ -17,6 +17,10 @@
 
 (很多并未列出,一个文件夹代表一个快捷指令)
 
+### 淘宝-双 11 喵糖自动任务
+
+https://github.com/leecobaby/shortcuts/tree/master/1111
+
 ### 京东-双 11 环游记
 
 https://github.com/leecobaby/shortcuts/tree/master/JD_travel
