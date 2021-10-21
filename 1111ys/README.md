@@ -10,6 +10,12 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-10-21 v1.1
+
+- 新增 攒能量任务
+
+https://www.icloud.com/shortcuts/37db740153d449db8d5aecca327fa5e5
+
 ### 2021-10-01 v1.0
 
 - 支持 助力池
