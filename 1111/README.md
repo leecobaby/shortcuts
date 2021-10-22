@@ -10,6 +10,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-10-22 v1.1
+
+- 更新 数据源解决无奖励问题
+- 更新 云端助力池开放
+
+https://www.icloud.com/shortcuts/11c46d0b1cf849a8b773ad1bae6b4fbe
+
 ### 2020-12-16 v1.0
 
 - 实现 双 11 喵糖的一些自动化任务
