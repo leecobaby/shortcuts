@@ -11,6 +11,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-10-25 v1.2
+
+- 修复 助力池意外字符带来的错误
+- 修改 验证数据的方式
+
+https://www.icloud.com/shortcuts/fa5d4eaf7b264dd098e3caafbd2ea7ad
+
 ### 2021-10-24 v1.1
 
 - 新增 开发者模式
