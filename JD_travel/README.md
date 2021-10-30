@@ -11,11 +11,20 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-10-29 v1.4
+
+- 新增 手动红包互助和环游记互助功能
+- 更新 继续兼容优化 ios15.1
+- 我任然不建议你升级 15.1，指令运行时间是 15.0 的 20 多倍
+
+https://www.icloud.com/shortcuts/4cb840a5e97e47f7b89552f7f0d679c6
+
 ### 2021-10-27 v1.3
 
 - 新增 任务火爆也能做
 - 更新 指令内循环以适配长时间运行
 - 更新 尝试性兼容 ios15.1
+- 更新 随机生成 UA
 
 https://www.icloud.com/shortcuts/1e3e360a3af44e648e9e9ec6057c569d
 
