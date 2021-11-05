@@ -10,11 +10,18 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-11-05 v1.3
+
+- 优化 小屏手机的显示效果
+- 优化 令牌模式的使用引导和逻辑
+
+https://www.icloud.com/shortcuts/a2c78b549662411a83184e094462a0d2
+
 ### 2021-10-31 v1.2
 
 - 新增 令牌模式 专过强校验
 - 兼容 ios15.1 版本（还是不建议你升级 15.1,运行时间是原来的 2 倍）
-  
+
 https://www.icloud.com/shortcuts/ffa746737bc242f8825888d03dbfe1f5
 
 ### 2021-10-22 v1.1
