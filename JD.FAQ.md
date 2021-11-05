@@ -3,7 +3,7 @@
 待完善...
 欢迎一起完善文档...
 
-### 如何获取 Cookie
+### 如何获取 Cookie （淘宝同理）
 
 - [电脑浏览器获取京东 cookie 教程](https://github.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie1.md)
 - [手机 stream app 获取京东 cookie 教程](https://github.com/leecobaby/shortcuts/blob/master/DOC/GetJdCookie2.md)
