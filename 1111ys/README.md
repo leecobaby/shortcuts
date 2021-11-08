@@ -10,6 +10,12 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-11-08 v1.1
+
+- 新增 王者争霸赛任务
+
+https://www.icloud.com/shortcuts/f7a8c041989a4cf7b4a7a97145811e92
+
 ### 2021-10-21 v1.1
 
 - 新增 攒能量任务

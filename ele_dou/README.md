@@ -15,6 +15,13 @@ TG 频道:https://t.me/xuehuashe
 
 - 实现 饿了么、支付宝、淘宝端 3 账号任务
 
+云更新:
+
+#### 2021-11-06
+
+- 更新 支持自动登录支付宝、淘宝饿了么，无需手动登录了
+- 更新 可选择性是否领券
+
 https://www.icloud.com/shortcuts/eca188639fee46dd9a6928dc1df7be26
 
 ### 免责申明
