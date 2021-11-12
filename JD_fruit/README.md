@@ -11,6 +11,22 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2021-11-11 v1.3
+
+- 更新 增加 Scriptable 获取 Cookie 线路。一条线路获取 Cookie 一直无法用可以尝试切换到另一条线路获取 Cookie
+- 修复 跳转 Scriptable App 报错问题
+
+https://www.icloud.com/shortcuts/0de42d10e2f64011bf2be125a8fc37b0
+
+### 2021-11-10 v1.2
+
+- 修复 ios13.0-13.4 因 Safari 浏览器旧引擎不识别 ES2020+ 的语法糖带来的致命错误
+- 优化 获取词典的方案， 代码兼容性及压缩，运行速度加快 20%
+- 兼容 ios15.1 系统，运行速度相比上一版本加快 1000%
+- 任然不建议你升级 15.1 系统，无法确定是否还存在不稳定因素
+
+https://www.icloud.com/shortcuts/ef828c8eec4b49848b415309c359b5ac
+
 ### 2021-11-06 v1.1
 
 - 更新 随机 UA 生成
