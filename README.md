@@ -55,7 +55,7 @@ https://github.com/leecobaby/shortcuts/tree/master/Jhs
 
 ### 芭芭农场自动集肥料
 
-https://github.com/leecobaby/shortcuts/tree/master/Qmxb
+https://github.com/leecobaby/shortcuts/tree/master/FarmSingle
 
 ### 淘金币自动任务
 
