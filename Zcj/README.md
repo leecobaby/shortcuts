@@ -10,6 +10,12 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-12-01 v1.4
+
+- 修复 等待时长问题（已运行过 1.3 版本的请去往其他选项选择指令修复!!!）
+
+https://www.icloud.com/shortcuts/d0cd07b973844c8b97a5a9292b08f9fe
+
 ### 2021-12-01 v1.3
 
 - 更新 支持双 12 活动任务
