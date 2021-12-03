@@ -69,6 +69,16 @@ https://github.com/leecobaby/shortcuts/tree/master/1212hlz
 
 https://github.com/leecobaby/shortcuts/tree/master/1111
 
+## 常见问题
+
+### 淘宝,天猫,饿了么指令常见问题
+
+https://github.com/leecobaby/shortcuts/tree/master/TB.FAQ.md
+
+### 京东指令常见问题
+
+https://github.com/leecobaby/shortcuts/tree/master/JD.FAQ.md
+
 ## 免责声明
 
 Copyright © 2020-2021 Leeco • @leecobaby
