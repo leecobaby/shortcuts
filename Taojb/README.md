@@ -10,6 +10,13 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-12-05 v2.9
+
+- 修复 会运行其他指令的 bug
+- 修复 cookie 错误的 bug
+
+https://www.icloud.com/shortcuts/68f2df96cacd489583330a1567cc430b
+
 ### 2021-12-03 v2.8
 
 - 更新 支持淘金币新任务和双 12 活动任务
