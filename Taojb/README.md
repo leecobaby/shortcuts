@@ -10,6 +10,13 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2021-12-31 v3.0
+
+- 更新 活动数据
+- 修复 因旧活动结束无法继续运行的问题
+
+https://www.icloud.com/shortcuts/7ecb481e019f4e8dae7b1bf2facbce20
+
 ### 2021-12-05 v2.9
 
 - 修复 会运行其他指令的 bug
