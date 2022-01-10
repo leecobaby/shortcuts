@@ -13,8 +13,9 @@ TG 频道:https://t.me/xuehuashe
 ### 2022-01-10 v2.1
 
 - 修复 互助跳转错误问题
+- 修复 递归调用会运行淘金币的错误
 
-https://www.icloud.com/shortcuts/26be45d87b634777b2bb752f3f5f11bb
+https://www.icloud.com/shortcuts/6c80ec2817854277b8b1e7db7ddd6760
 
 ### 2022-01-07 v2.0
 
