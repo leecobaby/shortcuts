@@ -10,6 +10,12 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-01-10 v2.1
+
+- 修复 互助跳转错误问题
+
+https://www.icloud.com/shortcuts/26be45d87b634777b2bb752f3f5f11bb
+
 ### 2022-01-07 v2.0
 
 - 更新 令牌模式，过活动校验
