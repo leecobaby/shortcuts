@@ -11,6 +11,15 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-01-11 v2.6
+
+- 新增 云端助力池，互助模块
+- 修复 多账号运行的一些神奇 bug
+- 修复 通过 AutoBox 无法正常运行的 bug
+- 修复 Alook 获取到的 Cookie 无法识别的 bug
+
+https://www.icloud.com/shortcuts/7120f3669afb42f1a5f7693ebe9d3bcf
+
 ### 2022-01-09 v2.5
 
 - 采用 最新的京东系任务框架
