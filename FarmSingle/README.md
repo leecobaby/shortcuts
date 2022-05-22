@@ -10,6 +10,15 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-05-22 v2.3
+
+- 新增 多条资源线路
+- 修复 线路获取错误导致指令错误的BUG
+- 更新 任务活动数据
+
+https://www.icloud.com/shortcuts/f6e53727303642dabfc76e1a7e0f3594
+
+
 ### 2022-03-26 v2.2
 
 - 新增 更多资源线路
