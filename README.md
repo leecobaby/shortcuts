@@ -17,9 +17,9 @@
 
 (很多并未列出,一个文件夹代表一个快捷指令)
 
-### 京东-炸年兽
+### 京东-618 自动任务
 
-https://github.com/leecobaby/shortcuts/tree/master/JD_nian
+https://github.com/leecobaby/shortcuts/tree/master/JD_618
 
 ### 芭芭农场自动集肥料 - 支持年货节
 
@@ -81,7 +81,7 @@ https://github.com/leecobaby/shortcuts/tree/master/JD.FAQ.md
 
 ## 免责声明
 
-Copyright © 2020-2021 Leeco • @leecobaby
+Copyright © 2020-2022 Leeco • @leecobaby
 
 - 本作者发布的快捷指令及其信息仅用于学习交流使用，提供一种自动化或实用的技术方案供于研究。
 - 本作者不能保证指令运行后带来的任何副作用，只是分享方案，如果你需要可以继续使用。
