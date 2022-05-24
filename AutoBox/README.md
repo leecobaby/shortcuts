@@ -62,6 +62,11 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+
+### AutoBox - 简洁版 
+
+https://www.icloud.com/shortcuts/b6832f4952c243d19ce76c3ec851a456
+
 ### 2021-10-01 v1.3
 
 - 不支持 ios13-14 系统
