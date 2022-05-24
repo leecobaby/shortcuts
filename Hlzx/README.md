@@ -9,6 +9,13 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2022-05-24 v1.7
+
+- 新增 更多资源线路
+- 修复 云端资源无法访问问题
+
+https://www.icloud.com/shortcuts/f2ce64f856a647fe838b357ee53ec158
+
 ### 2021-12-11 v1.6
 
 - 更新 优化小屏手机显示效果
