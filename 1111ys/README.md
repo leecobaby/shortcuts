@@ -20,6 +20,7 @@ TG 群:https://t.me/xuehuashe_chat
 
 - 新增 更多资源线路
 - 修复 云端资源无法访问问题
+- 更新 活动任务数据
 
 https://www.icloud.com/shortcuts/2afc2382f6e54dbd8e76e6594e8f2078
 
