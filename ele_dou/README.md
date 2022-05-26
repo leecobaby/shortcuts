@@ -11,6 +11,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-05-26 v1.2
+
+- 新增 多条资源线路
+- 更新 任务活动数据
+
+https://www.icloud.com/shortcuts/f7fd014d42e3427eadbdda2f3c900af3
+
 ### 2021-11-25 v1.1
 
 - 更新 多语言环境适配
