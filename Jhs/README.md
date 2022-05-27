@@ -9,6 +9,14 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2022-05-27 v1.7
+
+- 新增 更多资源线路
+- 修复 云端资源无法访问问题
+- 更新 活动任务数据
+
+https://www.icloud.com/shortcuts/13772cac372b484bb2ef7599baa95ed2
+
 ### 2021-09-11 v1.6
 
 - 修复 IOS15 运行任务完成后弹窗问题
