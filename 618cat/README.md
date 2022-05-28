@@ -1,13 +1,22 @@
 # 天猫 618 自动养猫
 
+# 天猫 618 喵运会自动任务
+
 ## 功能说明
 
 - 实现天猫 618 自动养猫
 - 支持 多终端 多账号 ipad 使用 自动化 模拟访问安全防黑
 
-TG 群:https://t.me/xuehuashe_chat
+TG:https://t.me/xuehuashe
 
 ## 版本日志
+
+### 2022-05-29 v1.5
+
+- 采用 最新的淘宝任务框架
+- 支持 令牌模式，模拟真实任务数据
+
+https://www.icloud.com/shortcuts/68bc00d010aa4fb1afb4a550b20db204
 
 ### 2021-06-14 v1.4
 
