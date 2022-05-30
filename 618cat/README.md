@@ -17,7 +17,7 @@ TG:https://t.me/xuehuashe
 - 运行指令前最好去往更多选项进行指令修复
 - 是否继续上次任务点击否将会解决很多错误
   
-https://www.icloud.com/shortcuts/aa4aefb0cc1a45249b338c02f8bccd5a
+https://www.icloud.com/shortcuts/65261e7c8b2c4d16a3cff08d0726d03b
 
 ### 2022-05-29 v1.5
 
