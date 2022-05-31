@@ -20,11 +20,12 @@ TG 群:https://t.me/xuehuashe_chat
 
 ### 2022-05-31 v1.4
 
+⚠️ 需要下滑的暂时解决不了，刚需的下吧
+
 - 更新 支持攒能量部分任务
 - 支持 助力池互助
 
 https://www.icloud.com/shortcuts/b96e42c71fa146ed82a9de8e394207c4
-
 
 ### 2022-05-24 v1.3
 

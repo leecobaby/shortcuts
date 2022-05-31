@@ -17,15 +17,27 @@
 
 (很多并未列出,一个文件夹代表一个快捷指令)
 
+### 淘宝-喵运会自动任务
+
+https://github.com/leecobaby/shortcuts/tree/master/618cat
+
 ### 京东-618 自动任务
 
 https://github.com/leecobaby/shortcuts/tree/master/JD_618
 
-### 芭芭农场自动集肥料 - 支持年货节
+### 京东-多合一签到
+
+https://github.com/leecobaby/shortcuts/tree/master/JD_sign
+
+### 京东-东东农场
+
+https://github.com/leecobaby/shortcuts/tree/master/JD_fruit
+
+### 芭芭农场自动集肥料
 
 https://github.com/leecobaby/shortcuts/tree/master/FarmSingle
 
-### 淘宝逛逛自动任务 - 支持年货节
+### 淘宝逛逛自动任务
 
 https://github.com/leecobaby/shortcuts/tree/master/Taogg
 
@@ -44,10 +56,6 @@ https://github.com/leecobaby/shortcuts/tree/master/TaoSign
 ### 京东-双 11 环游记
 
 https://github.com/leecobaby/shortcuts/tree/master/JD_travel
-
-### 天猫 618 自动养猫
-
-https://github.com/leecobaby/shortcuts/tree/master/618ca
 
 ### 活力中心自动任务
 
