@@ -25,7 +25,7 @@ TG 群:https://t.me/xuehuashe_chat
 - 更新 支持攒能量部分任务
 - 支持 助力池互助
 
-https://www.icloud.com/shortcuts/b96e42c71fa146ed82a9de8e394207c4
+https://www.icloud.com/shortcuts/2a0c11e7a7d741bfa76f7242bf1e2328
 
 ### 2022-05-24 v1.3
 
