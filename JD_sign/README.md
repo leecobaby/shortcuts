@@ -11,6 +11,12 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-06-14 v1.7
+
+- 新增 多条云端线路，自动切换可用线路
+
+https://www.icloud.com/shortcuts/51d675a5bf6840b7a503a0afaace94f0
+
 ### 2022-05-30 v1.6
 
 🔥 支持 618 种草街自动任务
