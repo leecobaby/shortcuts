@@ -19,7 +19,7 @@ TG 频道:https://t.me/xuehuashe
 - 更新 多活动场景助力码混用识别功能
 - 修复 部分错误
 
-https://www.icloud.com/shortcuts/4b52167d301c46f2bbfd3a21b5235c2c
+https://www.icloud.com/shortcuts/761d4bcb76734485bfbc95fa8f9a89a7
 
 ### 2022-05-26 v1.6
 
