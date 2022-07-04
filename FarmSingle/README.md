@@ -10,6 +10,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-07-05 v2.4
+
+- 新增 闲鱼里的芭芭农场任务，无需闲鱼 app
+- 优化 令牌模式单活动多场景的执行逻辑
+
+https://www.icloud.com/shortcuts/18deae3498ba4a26bb741ba661ba80a7
+
 ### 2022-05-22 v2.3
 
 - 新增 多条资源线路
