@@ -10,6 +10,12 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2022-07-07 v3.2
+
+- 修复 递归运行会运行到淘金币的 bug
+
+https://www.icloud.com/shortcuts/8f13c12f79cc4a7b935cd1e637063c81
+
 ### 2022-07-05 v3.1
 
 - 新增 多条资源线路
