@@ -2,11 +2,7 @@
 
 [![Join the chat at https://gitter.im/leecobaby-shortcuts/community](https://badges.gitter.im/leecobaby-shortcuts/community.svg)](https://gitter.im/leecobaby-shortcuts/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-归档一部分实用快捷指令，方便使用。
-
-关键词:
-
-- iphone 快捷指令
+归档一部分实用快捷指令，方便学习和使用。
 
 联系:
 
@@ -91,7 +87,8 @@ https://github.com/leecobaby/shortcuts/tree/master/JD.FAQ.md
 
 Copyright © 2020-2022 Leeco • @leecobaby
 
-- 本作者发布的快捷指令及其信息仅用于学习交流使用，提供一种自动化或实用的技术方案供于研究。
-- 本作者不能保证指令运行后带来的任何副作用，只是分享方案，如果你需要可以继续使用。
+- 本作者发布的快捷指令及其信息仅用于学习自动化技术的一种教学演示，提供一种实用的技术方案供和思路供于研究。
+- 本作者不能保证指令运行后带来的任何副作用，只是分享方案，如果接受可以继续使用。
 - 本作者抵制灰产、黄牛等人群利用自动化技术来实现牟利行为。所有提供的技术方案或成品、指令、脚本都做了防止这类牟利的一定约束。
 - 切勿用于商业及非法用途，否则后果自负。
+- 如有侵权请联系删除。
