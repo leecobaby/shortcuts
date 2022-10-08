@@ -13,13 +13,17 @@
 
 (很多并未列出,一个文件夹代表一个快捷指令)
 
-### 淘宝-喵运会自动任务
+### 饿了么-自动领豆
 
-https://github.com/leecobaby/shortcuts/tree/master/618cat
+https://github.com/leecobaby/shortcuts/tree/master/ele_dou
 
-### 京东-618 自动任务
+### 淘宝-双 11 自动任务
 
-https://github.com/leecobaby/shortcuts/tree/master/JD_618
+https://github.com/leecobaby/shortcuts/tree/master/1111
+
+### 闲鱼-自动任务
+
+https://github.com/leecobaby/shortcuts/tree/master/goofish_sign
 
 ### 京东-多合一签到
 
@@ -36,10 +40,6 @@ https://github.com/leecobaby/shortcuts/tree/master/FarmSingle
 ### 淘宝逛逛自动任务
 
 https://github.com/leecobaby/shortcuts/tree/master/Taogg
-
-### 饿了么-自动领豆
-
-https://github.com/leecobaby/shortcuts/tree/master/ele_dou
 
 ### 京东-东东农场
 
@@ -68,10 +68,6 @@ https://github.com/leecobaby/shortcuts/tree/master/Taojb
 ### 双十二欢乐造自动任务
 
 https://github.com/leecobaby/shortcuts/tree/master/1212hlz
-
-### 双十一淘宝自动养猫
-
-https://github.com/leecobaby/shortcuts/tree/master/1111
 
 ## 常见问题
 
