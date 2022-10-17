@@ -17,7 +17,7 @@ TG 频道:https://t.me/xuehuashe
 - 兼容 ios13-16
 - 优化 浇水任务顺序，解决无法完成浇水任务的问题
 
-https://www.icloud.com/shortcuts/10f5608092a84a95aec1adb37a42da3d
+https://www.icloud.com/shortcuts/f0405168aeeb41069b722fff515c6768
 
 ### 2022-06-19 v1.7
 
