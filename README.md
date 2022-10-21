@@ -13,9 +13,17 @@
 
 (很多并未列出,一个文件夹代表一个快捷指令)
 
+### 京东-1111 自动任务
+
+https://github.com/leecobaby/shortcuts/tree/master/JD_1111
+
 ### 饿了么-自动领豆
 
 https://github.com/leecobaby/shortcuts/tree/master/ele_dou
+
+### 京东-东东农场
+
+https://github.com/leecobaby/shortcuts/tree/master/JD_fruit
 
 ### 淘宝-双 11 自动任务
 
@@ -28,10 +36,6 @@ https://github.com/leecobaby/shortcuts/tree/master/goofish_sign
 ### 京东-多合一签到
 
 https://github.com/leecobaby/shortcuts/tree/master/JD_sign
-
-### 京东-东东农场
-
-https://github.com/leecobaby/shortcuts/tree/master/JD_fruit
 
 ### 芭芭农场自动集肥料
 
@@ -48,10 +52,6 @@ https://github.com/leecobaby/shortcuts/tree/master/JD_fruit
 ### 淘宝签到
 
 https://github.com/leecobaby/shortcuts/tree/master/TaoSign
-
-### 京东-双 11 环游记
-
-https://github.com/leecobaby/shortcuts/tree/master/JD_travel
 
 ### 活力中心自动任务
 
