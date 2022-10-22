@@ -29,6 +29,10 @@ https://github.com/leecobaby/shortcuts/tree/master/JD_fruit
 
 https://github.com/leecobaby/shortcuts/tree/master/1111
 
+### 淘宝-双 11 预售攒幸运值自动任务
+
+https://github.com/leecobaby/shortcuts/tree/master/1111ys
+
 ### 闲鱼-自动任务
 
 https://github.com/leecobaby/shortcuts/tree/master/goofish_sign
@@ -40,10 +44,6 @@ https://github.com/leecobaby/shortcuts/tree/master/JD_sign
 ### 芭芭农场自动集肥料
 
 https://github.com/leecobaby/shortcuts/tree/master/FarmSingle
-
-### 淘宝逛逛自动任务
-
-https://github.com/leecobaby/shortcuts/tree/master/Taogg
 
 ### 京东-东东农场
 
@@ -64,10 +64,6 @@ https://github.com/leecobaby/shortcuts/tree/master/Jhs
 ### 淘金币自动任务
 
 https://github.com/leecobaby/shortcuts/tree/master/Taojb
-
-### 双十二欢乐造自动任务
-
-https://github.com/leecobaby/shortcuts/tree/master/1212hlz
 
 ## 常见问题
 
