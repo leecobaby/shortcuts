@@ -11,6 +11,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-11-01 v1.9
+
+- 优化 数据 json 匹配
+- 优化 容错机制
+
+https://www.icloud.com/shortcuts/fa6fb0a4afc54ed380093d9c25038a35
+
 ### 2022-10-16 v1.8
 
 - 更新 线路判断功能
