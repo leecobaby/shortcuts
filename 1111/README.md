@@ -10,6 +10,14 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-11-02 v1.7
+
+- 修复 ios 13 弹错问题
+- 修复 任务递归弹窗问题
+- 修复 多账号授权 cookie 保存失败问题
+
+https://www.icloud.com/shortcuts/4736a72a4f634b408bc82deb3760c0fa
+
 ### 2022-11-02 v1.6
 
 - 增加 多账号授权存储功能，做任务只能选一个账号
