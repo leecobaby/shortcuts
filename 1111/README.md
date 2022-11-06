@@ -10,6 +10,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-11-05 v1.9
+
+- 修复 部分账号 cookie 编码错误问题（强化）
+- 优化 15.0-15.2系统 改为手动输入 cookie
+  
+https://www.icloud.com/shortcuts/f95f75e5c16e42d1b3500064e0c56b8d
+
 ### 2022-11-05 v1.8
 
 - 修复 因 Scriptable App 造成的 UTF-8 编码错误问题
@@ -21,6 +28,7 @@ https://www.icloud.com/shortcuts/7e82bbbdfa594e1c9377c9cea744318c
 
 💡 如需重复运行指令，可以只选“赚喵果”任务，其他任务已经做完
 💡 有剩余任务没有做的很正常，指令一直都是只能做部分任务，请手动做剩余任务
+💡 请不要擅自修改指令名字，请保持原名字，否则会出错
 
 免登陆获取 Cookie
 
