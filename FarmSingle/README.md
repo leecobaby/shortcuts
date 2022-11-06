@@ -10,9 +10,16 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-11-06 v2.8
+
+- 修复 自动化、AutoBox 运行会切换到普通模式的 bug
+- 修复 部分账号 cookie 编码错误问题（强化）
+
+https://www.icloud.com/shortcuts/0b27eefd079a4dfe8ab31396544c868a
+
 ### 2022-11-06 v2.7
 
-- 修改 普通模式无法使用问题，普通模式依然支持多账号自动化
+- 修复 普通模式无法使用问题，普通模式依然支持多账号自动化
 
 https://www.icloud.com/shortcuts/c7e2d2f00fb540b684f5903d749f6f3c
 
