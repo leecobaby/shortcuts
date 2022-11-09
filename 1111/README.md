@@ -10,11 +10,17 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-11-08 v2.0
+
+- 修复 AutoBox，自动化会运行到普通模式去的 bug
+
+https://www.icloud.com/shortcuts/3206a1b0cda242a092222f9d28e4560d
+
 ### 2022-11-05 v1.9
 
 - 修复 部分账号 cookie 编码错误问题（强化）
-- 优化 15.0-15.2系统 改为手动输入 cookie
-  
+- 优化 15.0-15.2 系统 改为手动输入 cookie
+
 https://www.icloud.com/shortcuts/f95f75e5c16e42d1b3500064e0c56b8d
 
 ### 2022-11-05 v1.8
