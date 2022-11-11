@@ -10,7 +10,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
-### 2022-11-10 v2.9
+### 2022-11-11 v3.0
+
+- 修复 各种兼容性问题
+
+https://www.icloud.com/shortcuts/122bc96040bb4b8f996ecd9f1dce4636
+
+### 2022-11-10 v2.9-beta
 
 - 修复 ios16 的各种异常和兼容性问题
 - 修复 AutoBox、自动化运行会跳出选择账号的 bug，目前只支持账号 1
