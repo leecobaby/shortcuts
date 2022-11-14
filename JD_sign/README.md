@@ -11,6 +11,17 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-11-14 v2.0
+
+- 修复 ios15 及以上系统因快捷指令运行内存限制原因，中途崩溃问题。需要依赖 Scriptable App，ios14 也改为依赖 Scriptable App
+- 优化 运行速度
+
+https://www.icloud.com/shortcuts/5b7b20380969415d9185aeb82050adae
+
+💡 因 Scritable App 作者时隔一年昨天更新了，现在必须是 ios15.5 以上系统才能安装。已安装过的不影响，如果有未安装过的同学，只能升级系统，或者下载旧版本 APP，请使用爱思助手安装 IPA 文件。
+
+https://szd55vqajl.feishu.cn/docx/RMnKdJjM0ooJSmxOIa5cxeaunrh
+
 ### 2022-11-06 v1.9
 
 - 优化 数据 json 匹配
@@ -19,7 +30,6 @@ TG 频道:https://t.me/xuehuashe
 - 优化 助力，可多场景，多样化，自动和手动随机助力
 
 https://www.icloud.com/shortcuts/bc16213a80914d869d7bf25e09e82571
-
 
 ### 2022-06-19 v1.8
 
