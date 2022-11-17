@@ -10,6 +10,12 @@ TG 群:https://t.me/xuehuashe_chat
 
 ## 版本日志
 
+### 2022-11-16 v3.4
+
+- 更新 支持最新的功能和特性
+
+https://www.icloud.com/shortcuts/140b3e07b1934ca88211b6e4c1192ffe
+
 ### 2022-11-05 v3.3
 
 - 更新 同步喵果指令版本
