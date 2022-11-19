@@ -11,6 +11,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2022-11-18 v2.0
+
+- 修复 ios15 及以上系统因快捷指令运行内存限制原因，中途崩溃问题。需要依赖 Scriptable App，ios14 也改为依赖 Scriptable App
+- 优化 运行速度
+
+https://www.icloud.com/shortcuts/72cd2487e7a24a7fbd2768b3ab40b5e0
+
 ### 2022-11-01 v1.9
 
 - 优化 数据 json 匹配
