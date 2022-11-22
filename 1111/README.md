@@ -47,7 +47,7 @@ https://www.icloud.com/shortcuts/7e82bbbdfa594e1c9377c9cea744318c
   3. 运行快捷指令-指令设置-授权账号-登录账号 n-跳转 App 抓包页
   4. 返回 Stream 停止，查询抓包历史
   5. 找到链接以 h5api 开头的记录，右上角分享，选择快捷指令-登录账号 n，保存完毕
-  6. 观察 iCloud 云盘 ▸ Shortcuts ▸ Leeco ▸ tb ▸ cookie 下面的 cookie 文件是否是刚刚的时间，已确所有步骤的成功
+  6. 观察 iCloud 云盘 ▸ Shortcuts ▸ Leeco ▸ tb ▸ cookie 下面的 cookie 文件是否是刚刚的时间，已确保所有步骤的成功
   7. 开始任务~
 
 ### 2022-11-02 v1.7
