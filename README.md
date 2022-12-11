@@ -13,13 +13,9 @@
 
 (很多并未列出,一个文件夹代表一个快捷指令)
 
-### 淘宝-双 11 喵果总动员自动任务
+### ⚛️ ChatGPT - AI 对话
 
-https://github.com/leecobaby/shortcuts/tree/master/1111
-
-### 京东-1111 自动任务
-
-https://github.com/leecobaby/shortcuts/tree/master/JD_1111
+https://github.com/leecobaby/shortcuts/tree/master/other/ChatGPT.md
 
 ### 饿了么-自动领豆
 
@@ -28,6 +24,10 @@ https://github.com/leecobaby/shortcuts/tree/master/ele_dou
 ### 京东-东东农场
 
 https://github.com/leecobaby/shortcuts/tree/master/JD_fruit
+
+### 淘宝-双 11 喵果总动员自动任务
+
+https://github.com/leecobaby/shortcuts/tree/master/1111
 
 ### 淘宝-双 11 预售攒幸运值自动任务
 
