@@ -16,4 +16,4 @@
 - Added AI overload detection
 - Added automatic copying of answers to clipboard
 
-https://www.icloud.com/shortcuts/ae8dabbc03d64c16a62894808f6c7352
+https://www.icloud.com/shortcuts/00b0985403084c5d9feb84635643b5c6
