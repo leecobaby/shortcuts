@@ -1,3 +1,5 @@
+[中文](./ChatGPT.md)|[English](./ChatGPT_EN.md)
+
 # ⚛️ ChatGPT - AI 对话
 
 ## 功能说明
