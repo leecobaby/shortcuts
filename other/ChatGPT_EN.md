@@ -12,6 +12,13 @@
 
 ## Version Log
 
+### 2022-12-13 v1.3
+
+- Update edge network connections to optimize access speed
+- Fix regional identification issues.
+
+https://www.icloud.com/shortcuts/c1444671fa024d68be4782ac48586600
+
 ### 2022-12-13 v1.2
 
 - Update running logic to reduce session loss.
