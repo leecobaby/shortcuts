@@ -12,6 +12,12 @@
 
 ## Version Log
 
+### 2022-12-27 v1.4
+
+- Improve service availability
+
+https://www.icloud.com/shortcuts/a11fae4d94ee4f77b33895d1bd251907
+
 ### 2022-12-13 v1.3
 
 - Update edge network connections to optimize access speed
