@@ -26,7 +26,7 @@ TG 群:https://t.me/xuehuashe_chat
 - 更新 更多选项增加视频教程
 - 修复 英文系统运行错误问题
 
-https://www.icloud.com/shortcuts/886ca07fa41d4ab1af99630285318f55
+https://www.icloud.com/shortcuts/107e6dd5fba44881a285ac60f4f28ba3
 
 ### 2022-10-25 v1.5
 
