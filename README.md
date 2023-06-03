@@ -13,9 +13,9 @@
 
 (很多并未列出,一个文件夹代表一个快捷指令)
 
-### 淘宝-红包攒能量自动任务
+### 天猫 618 喵运会自动任务
 
-https://github.com/leecobaby/shortcuts/tree/master/1111ys
+https://github.com/leecobaby/shortcuts/tree/master/618cat
 
 ### ⚛️ ChatGPT - AI 对话
 

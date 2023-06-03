@@ -11,6 +11,12 @@ TG:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2023-06-04 v1.8
+
+- 更新 支持 2023 天猫 618 喵运会任务
+
+https://www.icloud.com/shortcuts/9553461a76b34561b0f5b01b342a70a4
+
 ### 2022-06-13 v1.7
 
 - 更新 随机助力的算法，先屏蔽重复发消息用户，再从合规用户中随机助力
@@ -18,13 +24,12 @@ TG:https://t.me/xuehuashe
 
 https://www.icloud.com/shortcuts/9767f38956274f78ba853b53983937d2
 
-
 ### 2022-05-30 v1.6
 
 - 修复部分人指令自运行会运行到芭芭农场的错误
 - 运行指令前最好去往更多选项进行指令修复
 - 是否继续上次任务点击否将会解决很多错误
-  
+
 https://www.icloud.com/shortcuts/65261e7c8b2c4d16a3cff08d0726d03b
 
 ### 2022-05-29 v1.5
