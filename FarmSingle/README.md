@@ -10,6 +10,13 @@ TG 频道:https://t.me/xuehuashe
 
 ## 版本日志
 
+### 2023-06-10 v3.1
+
+- 更新 最新的任务数据
+- 优化 Cookie 的刷新存储机制
+
+https://www.icloud.com/shortcuts/ab64e2578be4437f9eafa2d662f91dae
+
 ### 2022-11-11 v3.0
 
 - 修复 各种兼容性问题
